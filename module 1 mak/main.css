@@ -1,0 +1,33 @@
+		body{
+
+}
+
+		p{
+margin: 30px
+			color: red;
+			font-size:60px;
+		
+
+			font-family:times new roman
+		}
+		a{
+			color: red;
+		font-size: 50px;
+		border: bottom	trasition	
+		}	
+
+		text-decoration: none;}
+
+	img{		
+		max-width: 100%;
+
+		height: auto;
+display: block;		}	
+div{
+	width: 70%;
+	margin: auto;
+	padding: 50px;
+	
+background-color: green;
+box-shadow: 0 0 30px 10px rgba(0, 0, 0, 1);
+}
